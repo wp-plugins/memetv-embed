@@ -1,5 +1,5 @@
 === memeTV Embed ===
-Contributors: memetv.com
+Contributors: memetv
 Tags: memetv, video, embed, connectv
 Requires at least: 2.8
 Tested up to: 4.1
